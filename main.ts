@@ -7,7 +7,7 @@ namespace gamerFart7000{
      * Skibidi
      */
     //% blockId="gamerFart7000skibiditoilet"
-    //% block="say $text $num times"
+    //% block="say Skibidi"
     //% num.min=1 num.max=69
     export function skibiditoilet(text:string,num:number){
         if (num <= 0){
