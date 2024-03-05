@@ -2,11 +2,11 @@ enum yousuf{
     isbad = 69
 }
 
-namespace gamerFart69{
+namespace gamerFart7000{
     /**
      * Skibidi
      */
-    //% blockId="gamerFart69skibiditoilet"
+    //% blockId="gamerFart7000skibiditoilet"
     //% block="say $text $num times"
     //% num.min=1 num.max=69
     export function skibiditoilet(text:string,num:number){
@@ -20,7 +20,7 @@ namespace gamerFart69{
     /**
      * Sigma function.
      */
-    //% blockId="gamerFart69sigmafunction"
+    //% blockId="gamerFart7000sigmafunction"
     //% block="sigma min $min max $max"
     export function sigma(min:number,max:number) {
         let currentnum = min
