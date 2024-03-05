@@ -4,7 +4,13 @@ namespace gamerFart69{
      */
     //% blockId="gamerFart69skibiditoilet"
     //% block="say skibidi toilet"
-    export function skibiditoilet(){
-        basic.showString("skibidi toilet")
+    //% num.min=1 num.max=69
+    export function skibiditoilet(num:number){
+        if (num <= 0){
+            return;
+        }
+        for (let i = 0; i < num; i++) {
+            basic.showString("skibidi")
+        }
     }
 }
