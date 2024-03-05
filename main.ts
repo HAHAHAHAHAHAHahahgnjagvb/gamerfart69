@@ -1,5 +1,5 @@
-enum yousuf{
-    isbad = 69
+enum Atay{
+    iscool = 7000
 }
 
 namespace gamerFart7000{
@@ -9,9 +9,7 @@ namespace gamerFart7000{
     //% blockId="gamerFart7000skibiditoilet"
     //% block="Skibidi toilet"
     //% num.min=1 num.max=70
-    export function Skibidi()
-    basic.showString(Skibidi)
-    )}
+   
     /**
      * Sigma function.
      */
