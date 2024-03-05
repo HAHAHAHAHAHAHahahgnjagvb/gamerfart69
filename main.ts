@@ -7,11 +7,11 @@ namespace gamerFart7000{
      * Skibidi
      */
     //% blockId="gamerFart7000skibiditoilet"
-    //% block="say Skibidi"
+    //% block="Skibidi toilet"
     //% num.min=1 num.max=70
-    export function Skibidi
+    export function Skibidi()
     basic.showString(Skibidi)
-    }
+    )}
     /**
      * Sigma function.
      */
