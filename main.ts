@@ -6,7 +6,7 @@ namespace gamerFart7000{
      * Skibidi
      */
     //% blockId="gamerFart7000skibiditoilet"
-    //% block="Skibidi toilet"
+    //% block="Skibidi toilet $text"
     //% num.min=1 num.max=70
     export function Skibidi(text:string){
         basic.showString("skibidi")
