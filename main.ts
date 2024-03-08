@@ -1,7 +1,6 @@
 enum Atay{
     iscool = 7000
 }
-
 namespace gamerFart7000{
     /**
      * Skibidi
@@ -9,9 +8,9 @@ namespace gamerFart7000{
     //% blockId="gamerFart7000skibiditoilet"
     //% block="Skibidi toilet"
     //% num.min=1 num.max=70
-    export function 
-    {basic.showString("Skibidi")
-    })
+    function showText(text:string){
+        basic.showString("hi")
+    }
     /**
      * Sigma function.
      */
