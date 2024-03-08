@@ -8,8 +8,8 @@ namespace gamerFart7000{
     //% blockId="gamerFart7000skibiditoilet"
     //% block="Skibidi toilet"
     //% num.min=1 num.max=70
-    function showText(text:string){
-        basic.showString("hi")
+    export function Skibidi(text:string){
+        basic.showString(skibidi)
     }
     /**
      * Sigma function.
