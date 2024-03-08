@@ -9,7 +9,7 @@ namespace gamerFart7000{
     //% block="Skibidi toilet"
     //% num.min=1 num.max=70
     export function Skibidi(text:string){
-        basic.showString(skibidi)
+        basic.showString("skibidi")
     }
     /**
      * Sigma function.
